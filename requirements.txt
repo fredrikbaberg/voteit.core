@@ -1,4 +1,6 @@
 -e git+https://github.com/ArcheProject/Arche.git#egg=arche
 -e git+https://github.com/ArcheProject/arche_usertags.git#egg=arche_usertags
+-e git+https://github.com/niteoweb/repoze.workflow.git#egg=repoze.workflow
 -e .[testing]
 six>=1.12
+html2text==2019.8.11
